@@ -11,5 +11,5 @@
 
     <!--     Імпорт-->
 
-    <include layout="@layout/flat_card_layout"/>
+    <include layout="@layout/flat_layout_card"/>
 </androidx.cardview.widget.CardView>

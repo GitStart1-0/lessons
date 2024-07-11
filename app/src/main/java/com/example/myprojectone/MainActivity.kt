@@ -6,7 +6,7 @@ class MainActivity : Activity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.homework_13)
+        setContentView(R.layout.les_13_card_view)
 
         }
     }
